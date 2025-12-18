@@ -62,7 +62,7 @@
 
 ## 🧑‍💻 Contact me
 <div align="left">
-  ---
-  <span>**kim5ys@naver.com**</span>
-  ---
+  <hr/>
+  <span><b>kim5ys@naver.com</b></span>
+  <hr/>
 </div>
