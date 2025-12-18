@@ -53,14 +53,16 @@
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </div>
 
-## 🧑‍💻 Contact me
-<div align="left">
-  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  <span>kim5ys@naver.com</span>
-</div>
 
 ## 🏅 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sub-bong&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sub-bong&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
+</div>
+
+## 🧑‍💻 Contact me
+<div align="left">
+  ---
+  <span>**kim5ys@naver.com**</span>
+  ---
 </div>
