@@ -64,7 +64,7 @@
 </div>
 
 ## 🧑‍💻 Contact me
-<div align="left">
+<div align="center">
   <hr/>
   <span><b>kim5ys@naver.com</b></span>
   <hr/>
