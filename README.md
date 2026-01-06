@@ -55,13 +55,6 @@
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </div>
 
-
-## 🏅 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sub-bong&theme=github&show_icons=true" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sub-bong&theme=nord_bright" />
-</div>
-
 ## 🧑‍💻 Contact me
 <div align="center">
   <hr/>
