@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
-#### DevOps / Tools
+#### Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -58,8 +58,8 @@
 
 ## 🏅 Stats
 <div align="center">
-  <img src"http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sub-bong&theme=gruvbox" />
-  <img src"http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sub-bong&theme=nord_bright&hide=jupyter%20Notebook" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sub-bong&theme=github" alt="General stats badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sub-bong&theme=nord_bright&hide=jupyter%20Notebook" alt="Top languages by commit badge"/>
 </div>
 
 ## 🧑‍💻 Contact me
