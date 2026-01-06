@@ -58,7 +58,7 @@
 
 ## 🏅 Stats
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sub-bong&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sub-bong&theme=github&show_icons=true" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sub-bong&theme=nord_bright" />
 </div>
 
