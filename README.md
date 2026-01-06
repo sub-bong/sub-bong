@@ -58,8 +58,8 @@
 
 ## 🏅 Stats
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sub-bong&theme=github" alt="General stats badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sub-bong&theme=nord_bright&hide=jupyter%20Notebook" alt="Top languages by commit badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sub-bong&theme=github" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sub-bong&theme=nord_bright" />
 </div>
 
 ## 🧑‍💻 Contact me
