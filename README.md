@@ -58,8 +58,8 @@
 
 ## 🏅 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sub-bong&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={sub-bong}&theme={default}&exclude={jupyter%20Notebook}" />
+  ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sub-bong&theme=gruvbox)
+  ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sub-bong&theme=nord_bright&hide=jupyter%20Notebook)
 </div>
 
 ## 🧑‍💻 Contact me
