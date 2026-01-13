@@ -50,10 +50,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </div>
-
-## 🧑‍💻 Contact me
-<div align="center">
-  <hr/>
-  <span><b>kim5ys@naver.com</b></span>
-  <hr/>
-</div>
