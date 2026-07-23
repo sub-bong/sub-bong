@@ -17,10 +17,10 @@
 
 #### Backend
 <div align="left">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 #### Database
